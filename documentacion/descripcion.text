@@ -1,0 +1,31 @@
+PROYECTO: VinculaUTD
+
+PROBLEMA
+A los alumnos de la UTD les cuesta encontrar empresa para sus practicas o estadia. Buscan a ciegas, con conocidos o en grupos de Facebook, sin saber que empresas aceptan practicantes ni que perfil piden. Pierden mucho tiempo y a veces terminan en lugares que no tienen que ver con su carrera.
+
+OBJETIVO
+Reducir el tiempo que tarda un alumno en encontrar empresa y centralizar todas las vacantes de practicas en un solo lugar.
+
+DESCRIPCION
+VinculaUTD es una plataforma web que conecta a los alumnos de la UTD con empresas de Durango que buscan practicantes o estadias.
+
+Esta dirigida a:
+- Alumnos de la UTD que van a hacer practicas o estadia.
+- Empresas de Durango que buscan practicantes.
+- El area de Vinculacion de la UTD, que lleva el control de las practicas.
+- Exalumnos, que dejan resenas de las empresas donde estuvieron.
+
+Funciones principales:
+- Registro y perfiles: el alumno crea su perfil con su carrera, habilidades y CV, y la empresa crea el suyo.
+- Vacantes: las empresas publican sus vacantes y los alumnos se postulan desde la plataforma.
+- Recomendaciones (match): el sistema compara las habilidades del alumno con lo que pide cada vacante y le sugiere las que mas le quedan.
+- Resenas: los exalumnos califican y comentan como les fue en cada empresa.
+- Panel de Vinculacion: la universidad ve en tiempo real que alumnos ya tienen empresa, donde estan y quienes siguen buscando.
+
+INNOVACION
+Junta en un solo lugar las vacantes, las recomendaciones automaticas y las opiniones reales de exalumnos. Hoy esas tres cosas estan dispersas o simplemente no existen.
+
+PLANIFICACION
+- Duracion: 8 semanas
+- Tecnologias: VS Code, Figma, GitHub, MySQL y un servicio de alojamiento web
+- Presupuesto estimado: $19,400 MXN
